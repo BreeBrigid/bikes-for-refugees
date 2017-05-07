@@ -102,6 +102,10 @@ body {
 }
 
 /* Article */
+.sidebar-content .articles {
+	flex-direction: column; 
+}
+
 .articles{
 	display: flex;
 	justify-content: space-between;
